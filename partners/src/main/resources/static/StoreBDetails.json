@@ -1,0 +1,23 @@
+{
+    "id" : "9549045",
+    "title" : "Nice Shoes",
+    "price" : 59.95,
+    "currency" : "USD",
+    "productImageUrl" : "http:///localhost:8080/assets/images/nice_shoes.png",
+    "skus" : [
+        {
+            "sku" : "nice_shoe_small_red",
+            "color" : "red",
+            "size" : "S",
+            "is_available" : true,
+            "productImageUrl" : "http:///localhost:8080/assets/images/nice_shoe_small_red.png"
+        },
+        {
+            "sku" : "nice_shoe_small_blue",
+            "color" : "blue",
+            "size" : "S",
+            "is_available" : true,
+            "productImageUrl" : "http:///localhost:8080/assets/images/nice_shoe_small_blue.png"
+        }
+    ]
+}

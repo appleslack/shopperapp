@@ -1,0 +1,13 @@
+{
+    "id" : "324234",
+    "availability" : [
+        {
+            "sku" : "nice_shoe_small_red",
+            "stock_level" : 12
+        },
+        {
+            "sku" : "nice_shoe_small_blue",
+            "stock_level" : 0
+        }
+    ]
+}

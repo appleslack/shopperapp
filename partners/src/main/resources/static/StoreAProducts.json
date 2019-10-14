@@ -1,0 +1,30 @@
+{
+    "product_id" : "88479549045",
+    "title" : "Fluffy Shirt",
+    "sale_price" : 23.40,
+    "currency" : "USD",
+    "product_image" : "http:///localhost:8080/assets/images/fluffyshirt.png",
+    "upcs" : [
+        {
+            "upc" : "fluffyshirt_r_s",
+            "color" : "red",
+            "size" : "S",
+            "is_available" : true,
+            "product_image" : "http:///localhost:8080/assets/images/fluffyshirt_r_s.png"
+        },
+        {
+            "upc" : "fluffyshirt_r_m",
+            "color" : "red",
+            "size" : "M",
+            "is_available" : false,
+            "product_image" : "http:///localhost:8080/assets/images/fluffyshirt_r_m.png"
+        },
+        {
+            "upc" : "fluffyshirt_b_s",
+            "color" : "blue",
+            "size" : "S",
+            "is_available" : false,
+            "product_image" : "http:///localhost:8080/assets/images/fluffyshirt_b_s.png"
+        }
+    ]
+}
